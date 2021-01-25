@@ -4,7 +4,14 @@
   --user-popout-position: center;
 }
 
-[user_by_bdfdb*="186496078273708033"],
-[data-user-id*="186496078273708033"] {
-    --user-background: url('https://i.imgur.com/6WAlrBj.png');
+/*Hades#0911*/
+[user_by_bdfdb*='186496078273708033'],
+[data-user-id*='186496078273708033'] {
+  --user-background: url('https://i.imgur.com/6WAlrBj.png');
+}
+
+/*Lexi#2248*/
+[user_by_bdfdb*='465702500146610176'],
+[data-user-id*='465702500146610176'] {
+  --user-background: url('https://i.imgur.com/UZ9NlUp.jpg');
 }
