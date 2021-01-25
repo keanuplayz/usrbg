@@ -3,3 +3,8 @@
 .userPopout-3XzG_A {
   --user-popout-position: center;
 }
+
+[user_by_bdfdb*="186496078273708033"],
+[data-user-id*="186496078273708033"] {
+    --user-background: url('https://i.imgur.com/6WAlrBj.png');
+}
