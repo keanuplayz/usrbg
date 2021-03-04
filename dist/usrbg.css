@@ -21,3 +21,15 @@
 [data-user-id*='465702500146610176'] {
   --user-background: url('https://i.imgur.com/UZ9NlUp.jpg');
 }
+
+/*Nnubes256#0256*/
+[user_by_bdfdb*='157598993298227211'],
+[data-user-id*='157598993298227211'] {
+  --user-background: url('https://i.imgur.com/CMuLFih.png');
+}
+
+/*mijyuoon#6666*/
+[user_by_bdfdb*='243061915281129472'],
+[data-user-id*='243061915281129472'] {
+  --user-background: url('https://i.imgur.com/oPLI74X.jpg');
+}
