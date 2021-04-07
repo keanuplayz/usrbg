@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "author": "Keanu",
+    "license": "None",
+    "name": "USRBG - Keanu",
+    "description": "Small friend USRBG repo.",
+    "theme": "dist/usrbg.css"
+}
